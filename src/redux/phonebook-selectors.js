@@ -14,5 +14,3 @@ export const getVisibleContacts = createSelector(
     );
   },
 );
-
-// export const getLoader = state => state.contacts.loading;
